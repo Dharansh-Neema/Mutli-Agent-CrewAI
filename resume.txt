@@ -1,0 +1,49 @@
+sample_resume=""" 
+Dharansh Neema
+ 9549325941 # dharanshneema@gmail.com  linkedin.com/in/dharanshneema § github.com/Dharansh-Neema
+Education
+Vellore Institute of Technology, Vellore July 2025
+Bachelor of Technology in Computer Science; CGPA: 8.78
+New Look Senior Secondary School July 2021
+Central Board of Secondary Education (C.B.S.E) - Class XII; Percentage: 90.2
+New Look Senior Secondary School May 2019
+Central Board of Secondary Education (C.B.S.E) - Class X; Percentage: 92.4
+Experience
+Backend Developer Intern Sept 2023 – Dec 2023
+AulaCube Remote
+• Led the development of real-time tracking APIs for monitoring school entry and exit events using Firebase,
+contributing to improved operational efficiency.
+• Engineered and optimized RESTful APIs using Spring Boot and Maven to streamline user management, automate fee
+notifications, and generate dynamic reporting. ensured seamless deployment and scalability with Docker and
+Kubernetes.
+Projects
+Heart Disease Detection using Machine Learning January 2025
+• Developed an end-to-end machine learning pipeline for heart disease detection, leveraging MLOps principles such as
+CI/CD pipelines and deployed the application on EC2 using Docker for seamless containerization and scalability.
+• Achieved 90% accuracy using Logistic Regression, integrating automated monitoring and data versioning.
+• Tech Stack: Python, scikit-learn, Docker, AWS EC2, Jupyter Notebook, GitHub Actions, Streamlit
+IMDb RAG (Retrieval-Augmented Generation) December 2024
+• Preprocessed a dataset of 250 movies and embedded it using HuggingFace Sentence Transformer.
+• Stored the embeddings in Pinecone, a vector database, to enable efficient cosine-based retrieval.
+• Integrated OpenAI LLM to generate context-aware responses by combining the query and retrieved context.
+• Tech Stack: Python, HuggingFace Transformers, Pinecone, OpenAI GPT, Jupyter Notebook, LangChain
+E-commerce July 2024
+• Designed and implemented 50+ robust backend APIs for an E-commerce platform, supporting comprehensive
+CRUD operations for both user and admin roles with strict role-based access control.
+• Enhanced the platform with advanced payment processing via Stripe SDK, seamless media uploads using Cloudinary,
+and email notifications using nodemailer, secure user authentication and session management using JWT tokens.
+• Tech Stack: Node.js, Express.js, EJS, MongoDB, Cloudinary, Stripe SDK, JWT, bcrypt.js, nodemailer
+Technical Skills
+Languages/Frameworks: Python, Java, C/C++, JavaScript, Node.js, Express.js, HTML, CSS, BootStrap, Go
+Development Tools:Git, GitHub, Github Action, Spring Boot, Skit-Learn, Docker, Kubernetes, Jenkins, Ansible
+Cloud/Databases: AmazonWeb Service (AWS), Google Cloud (GCP), MongoDB, Postgres, MySQL, PineCone
+Relevant Coursework: Data Structures Algorithms, Operating Systems, Object-Oriented Programming, Database
+Management System, Computer Networks, Machine Learning, Generative AI, Natural Language Processing
+Productive Tools: Microsoft Office Suite (Word, Excel, PowerPoint, Teams), Google Drive, Spreadsheets , Jira
+Extra-Curricular Activities
+Mozilla Firefox Club: Committee member, responsible for checking code and managing backend systems for club events.
+Hashnode Tech Blogs: Personal blogs releated to technical insights, analyses, and explorations of various technologies.
+Professional Certifications
+AWS Cloud Practitioner December 2023
+Google Cloud Digital Leader December 2023
+"""
