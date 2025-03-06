@@ -1,0 +1,9 @@
+crewai 
+crewai_tools 
+langchain_community  
+ipykernel
+langchain
+langchain-openai
+langchainhub
+black
+langchain-ollama
