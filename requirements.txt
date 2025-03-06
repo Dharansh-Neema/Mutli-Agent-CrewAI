@@ -1,5 +1,5 @@
 crewai 
-crewai_tools 
+crewai[tools] 
 langchain_community  
 ipykernel
 langchain
